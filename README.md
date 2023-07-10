@@ -3,4 +3,4 @@ This repository contains a virtual reality application made in Unity, which enab
 
 The project and documentation is currently **work in progress**.
 
-Unity Version 2021.3.22f1 (latest version as of 13.04.2023)
+Made with Unity Version 2022.3.1f1
