@@ -18,6 +18,9 @@
 /Virtual Computer Museum/[Aa]ssets/[Ss]treamingAssets/aa/*
 /Virtual Computer Museum/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
+# Files to be ignored, besides from Unity
+*.DS_Store
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/Virtual Computer Museum/[Aa]ssets/**/*.meta
 
