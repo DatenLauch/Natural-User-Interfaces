@@ -59,6 +59,6 @@ namespace VRBuilder.Editor.UI
                 }
                 iconDark = iconLight;
             }
-git         }
+        }
     }
 }
