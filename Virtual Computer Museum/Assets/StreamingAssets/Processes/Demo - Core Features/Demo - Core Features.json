@@ -295,7 +295,7 @@
               "TabsGroup": {
                 "$id": "58",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 1
+                "selected": 0
               }
             }
           }
@@ -480,7 +480,7 @@
               "TabsGroup": {
                 "$id": "91",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 0
+                "selected": 1
               }
             }
           }
@@ -668,7 +668,7 @@
               "TabsGroup": {
                 "$id": "125",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 0
+                "selected": 1
               }
             }
           }
@@ -681,7 +681,7 @@
           "$id": "127",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 1259.2,
+            "x": 1260.0,
             "y": 0.0
           },
           "StepType": "default"
@@ -1136,8 +1136,8 @@
           "$id": "213",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 182.0,
-            "y": -108.0
+            "x": 184.0,
+            "y": -117.0
           },
           "StepType": "default"
         },
@@ -1327,7 +1327,7 @@
               "TabsGroup": {
                 "$id": "248",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 1
+                "selected": 2
               }
             }
           }
@@ -2275,8 +2275,8 @@
           "$id": "418",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 1291.2,
-            "y": 0.0
+            "x": 1240.0,
+            "y": -117.0
           },
           "StepType": "default"
         },
@@ -2459,8 +2459,8 @@
           "$id": "451",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 1605.6,
-            "y": 0.0
+            "x": 1092.0,
+            "y": 96.0
           },
           "StepType": "default"
         },
@@ -2820,8 +2820,8 @@
           "$id": "517",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 1874.4,
-            "y": 0.0
+            "x": 1230.0,
+            "y": 214.0
           },
           "StepType": "default"
         },
@@ -3102,8 +3102,8 @@
           "$id": "571",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 2105.6,
-            "y": 0.0
+            "x": 1386.0,
+            "y": 39.0
           },
           "StepType": "default"
         },
@@ -3259,7 +3259,7 @@
           "$id": "602",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 544.0,
+            "x": 545.0,
             "y": 0.0
           },
           "StepType": "default"
@@ -3544,7 +3544,7 @@
               "TabsGroup": {
                 "$id": "654",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 1
+                "selected": 0
               }
             }
           }
@@ -3557,7 +3557,7 @@
           "$id": "656",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 272.0,
+            "x": 271.0,
             "y": 0.0
           },
           "StepType": "default"
@@ -3990,7 +3990,7 @@
               "TabsGroup": {
                 "$id": "736",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 0
+                "selected": 1
               }
             }
           }
@@ -4517,7 +4517,7 @@
               "TabsGroup": {
                 "$id": "834",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 2
+                "selected": 1
               }
             }
           }
@@ -4725,7 +4725,7 @@
               "TabsGroup": {
                 "$id": "873",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 2
+                "selected": 0
               }
             }
           }
@@ -4918,7 +4918,7 @@
               "TabsGroup": {
                 "$id": "909",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 0
+                "selected": 1
               }
             }
           }
@@ -5175,7 +5175,7 @@
               "TabsGroup": {
                 "$id": "954",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 1
+                "selected": 0
               }
             }
           }
@@ -5693,7 +5693,7 @@
               "$id": "1044",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
               "LastSelectedStep": {
-                "$ref": "516"
+                "$ref": "351"
               },
               "EntryNodePosition": {
                 "x": 0.0,
@@ -5753,7 +5753,7 @@
                 "$ref": "601"
               },
               "EntryNodePosition": {
-                "x": -35.2,
+                "x": -34.0,
                 "y": 0.0
               },
               "Guid": "51007c60-6ff8-4182-931a-64a3aae6d4db"
@@ -5831,7 +5831,7 @@
               "$id": "1056",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
               "LastSelectedStep": {
-                "$ref": "910"
+                "$ref": "874"
               },
               "EntryNodePosition": {
                 "x": -21.6,
