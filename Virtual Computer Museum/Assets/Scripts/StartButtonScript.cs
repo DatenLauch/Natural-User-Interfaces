@@ -9,7 +9,7 @@ public class StartButtonScript : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI startButtonText;
     [SerializeField] UiSoundScript uiSounds;
-    [SerializeField] GameObject entranceDoor;
+    [SerializeField] GameObject entranceSlideDoor;
     [SerializeField] Button startButton;
     [SerializeField] Button quitButton;
 
@@ -38,17 +38,17 @@ public class StartButtonScript : MonoBehaviour
     {
         float elapsedTime = 0f;
         int duration = 2;
-        Vector3 currentPosition = entranceDoor.transform.position;
-        Vector3 targetPosition = new Vector3(5.0f, -4f, -20.25f);
+        Vector3 currentPosition = entranceSlideDoor.transform.position;
+        Vector3 targetPosition = new Vector3(5.0f, -2f, 0f);
 
         while (elapsedTime < duration)
         {
             float t = elapsedTime / duration;
-            entranceDoor.transform.position = Vector3.Lerp(currentPosition, targetPosition, t);
+            entranceSlideDoor.transform.position = Vector3.Lerp(currentPosition, targetPosition, t);
             elapsedTime += Time.deltaTime;
             yield return null;
         }
-        entranceDoor.transform.position = targetPosition;
-        Destroy(entranceDoor);
+        entranceSlideDoor.transform.position = targetPosition;
+        Destroy(entranceSlideDoor);
     }
 }

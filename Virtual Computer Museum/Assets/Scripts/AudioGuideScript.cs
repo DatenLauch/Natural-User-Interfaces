@@ -11,7 +11,7 @@ public class AudioGuideScript : MonoBehaviour
     [SerializeField] Sprite stopIcon;
     Boolean play = false;
 
-    void playAudioGuide(AudioClip audioClip)
+    void playAudioGuide()
     {
         audioSource.clip = audioClip;
         audioSource.Play();
@@ -24,16 +24,16 @@ public class AudioGuideScript : MonoBehaviour
         audioSource.Stop();
         changeToPlayIcon();
         play = false;
-        
+
     }
 
     public void PlayPause()
     {
-        Debug.Log("aaa");
         if (play)
-            changeToStopIcon();
+            stopAudioGuide();
 
-        else changeToPlayIcon();
+        else
+            playAudioGuide();
     }
 
     void changeToPlayIcon()
