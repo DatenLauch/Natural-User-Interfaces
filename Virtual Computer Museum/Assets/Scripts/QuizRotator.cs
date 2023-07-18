@@ -11,7 +11,7 @@ public class QuizRotator : MonoBehaviour
     void Start()
     {
         spin = new Vector3 (0, 5, 0);
-        speed = 10;
+        speed = 5;
     }
 
     // Update is called once per frame
