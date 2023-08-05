@@ -52,7 +52,7 @@ https://gagadget.com/media/uploads/imac-design-history.jpg
 
 https://static1.pocketlintimages.com/wordpress/wp-content/uploads/144413-laptops-feature-20-years-of-the-imac-looking-back-at-apples-legendary-imac-g3-image1-jsnimmw1bb.jpg
 
-3D Modell from Sketchfeb:
+3D Models from Sketchfeb:
 
 Apple Lisa 2 computer: https://sketchfab.com/3d-models/apple-lisa-2-computer-9b92550d8e47477cb4c70a058b419e66
 
