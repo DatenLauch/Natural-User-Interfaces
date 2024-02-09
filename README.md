@@ -11,6 +11,9 @@ At this point in time, this project is still an early but playable prototype wit
 
 Made with Unity Version 2022.3.1f1
 
+![Museum1](https://github.com/DatenLauch/Virtual-Computer-Museum/assets/103434272/6e1e20f9-d03d-48d0-8650-b10d9e9f170d)
+![Museum2](https://github.com/DatenLauch/Virtual-Computer-Museum/assets/103434272/2e723fa8-7ab8-4412-b82c-44f0d6ed4526)
+
 
 ## Assets and Sources
 <details>
