@@ -9,7 +9,7 @@ VR technology and user-friendly interfaces are used to create an engaging educat
 
 At this point in time, this project is still an early but playable prototype with functioning main features and a few fuly functioning exhibits. It is intended to display a vertical slice of the full project. Meaning that the amount exhibits could be expanded in the future.
 
-Made with Unity Version 2022.3.1f1
+Made with Unity Version 2022.3.2f1
 
 ![Museum1](https://github.com/DatenLauch/Virtual-Computer-Museum/assets/103434272/6e1e20f9-d03d-48d0-8650-b10d9e9f170d)
 ![Museum2](https://github.com/DatenLauch/Virtual-Computer-Museum/assets/103434272/2e723fa8-7ab8-4412-b82c-44f0d6ed4526)
