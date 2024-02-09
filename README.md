@@ -1,12 +1,23 @@
 # Virtual Computer Museum 
 
-Description: Our VR-based Computer Museum offers an immersive journey through the evolution of computing. Users explore interactive exhibits within Unity-designed game scenes, experiencing the history of computers firsthand. VR technology and user-friendly interfaces create an engaging educational experience for all.
 
-This project is for the course called "Natural User Interface".
+This project is was created during our university course "Natural User Interface".
+
+Our VR-based Computer Museum aims to offer an immersive, entertaining and informative journey through the evolution of computing. 
+Users explore virtual exhibits within to experience and interact with the history of computers firsthand. 
+VR technology and user-friendly interfaces are used to create an engaging educational and fun experience.
+
+At this point in time, this project is still an early but playable prototype with functioning main features and a few fuly functioning exhibits. It is intended to display a vertical slice of the full project. Meaning that the amount exhibits could be expanded in the future.
 
 Made with Unity Version 2022.3.1f1
 
-Sources we used for the development:
+
+## Assets and Sources
+<details>
+<summary>Click to expand</summary>
+
+
+### Tutorials
 
 Pacman Game: https://www.youtube.com/watch?v=TKt_VlMn_aA&t=190s
 
@@ -16,7 +27,10 @@ VR Builder: https://www.youtube.com/watch?v=ObYdlU68MYw
 
 5 Most Important Components of a Computer: https://www.hp.com/my-en/shop/tech-takes/post/most-important-computer-components
 
-Wikipedia sources:
+
+
+### Wikipedia articles
+  
 https://en.wikipedia.org/wiki/Apple_II
 
 https://en.wikipedia.org/wiki/Commodore_PET
@@ -27,7 +41,9 @@ https://en.wikipedia.org/wiki/TRS-80
 
 https://en.wikipedia.org/wiki/IMac
 
-Pictures we used:
+
+### Pictures
+  
 https://www.classic-computing.org/wp-content/uploads/2016/01/diktator_ibm_pc_commercial.png
 
 https://www.cnet.com/a/img/resize/6df20653eaaf88cd325323833c368014d849cc93/hub/2013/08/16/8bc2d464-6788-11e3-846b-14feb5ca9861/001-7.jpg?auto=webp&width=1200
@@ -52,8 +68,9 @@ https://gagadget.com/media/uploads/imac-design-history.jpg
 
 https://static1.pocketlintimages.com/wordpress/wp-content/uploads/144413-laptops-feature-20-years-of-the-imac-looking-back-at-apples-legendary-imac-g3-image1-jsnimmw1bb.jpg
 
-3D Models from Sketchfeb:
 
+### 3D Sketchfab Models
+  
 Apple Lisa 2 computer: https://sketchfab.com/3d-models/apple-lisa-2-computer-9b92550d8e47477cb4c70a058b419e66
 
 Graphic Information Manipulator EC-1841: https://sketchfab.com/3d-models/graphic-information-manipulator-ec-1841-4706b419003549ee8fac6316ebf7f283
@@ -76,4 +93,4 @@ Hard Drive-SF: https://sketchfab.com/3d-models/hard-drive-sf-e03abb1edf7a42d69f9
 
 Cassette: https://sketchfab.com/3d-models/cassette-tape-d12bc8517ecb470f87862e1c24250d91
 
-
+</details>
